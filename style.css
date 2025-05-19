@@ -99,6 +99,7 @@ a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 40px;
   max-width: 300px; /* Optional: keeps your logo from being too large */
   height: auto;
 }
